@@ -9,7 +9,7 @@ Writing code and making it work is difficult.
 Keeping it working is more difficult.
 
 Here we discover ways of writing software that works on a machine
-and [digestable by humans](https://sudeeprp.github.io/default-coding/).
+and [digestible by humans](https://sudeeprp.github.io/default-coding/).
 
 ## Every learning is Self-learning
 

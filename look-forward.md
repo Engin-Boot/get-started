@@ -13,9 +13,8 @@ and [digestible by humans](https://sudeeprp.github.io/default-coding/).
 
 ## Every learning is Self-learning
 
-- There is no 'perfect' way. There are consequences.
-- It needs to be experienced
-- We accelerate the experience. You need to participate.
+- There is no 'perfect' way. Look for consequences.
+- You get it by experience. You gain experience by participating.
 
 ## It's not enough if it works
 
@@ -23,7 +22,7 @@ and [digestible by humans](https://sudeeprp.github.io/default-coding/).
 
 - Submit your best effort
 - Precision is more valuable than correctness
-Only then, your failures will help you succeed.
+This way, your failures will help you succeed.
 - Seek reviews
 - Make _reasonable_ assumptions
 

@@ -21,7 +21,7 @@ and [digestible by humans](https://sudeeprp.github.io/default-coding/).
 ### Do
 
 - Submit your best effort
-- Precision is more valuable than correctness
+- Precision is more valuable than correctness.
 This way, your failures will help you succeed.
 - Seek reviews
 - Make _reasonable_ assumptions

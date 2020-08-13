@@ -22,14 +22,21 @@ and [digestible by humans](https://sudeeprp.github.io/default-coding/).
 
 - Submit your best effort
 - Precision is more valuable than correctness.
-This way, your failures will help you succeed.
+
+> This way, your failures will help you succeed.
+
+- Form an opinion first
 - Seek reviews
+- Build on ideas
+
+> This way, your opinion will count
+
 - Make _reasonable_ assumptions
 
 ### Don't
 
-- Don't copy someone else's work. Don't do it.
-- Don't do it all in the last moment.
+- Don't copy someone else's work. Always contribute.
+- Don't do it all in the last moment. Take the first run quickly.
 
 ### The comment is on the code
 

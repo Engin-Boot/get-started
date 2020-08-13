@@ -36,7 +36,7 @@ and [digestible by humans](https://sudeeprp.github.io/default-coding/).
 ### Don't
 
 - Don't copy someone else's work. Always contribute.
-- Don't do it all in the last moment. Take the first run quickly.
+- Don't do it all in the last moment. Hustle the first run.
 
 ### The comment is on the code
 

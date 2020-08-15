@@ -26,7 +26,7 @@ However, this has obvious drawbacks:
 
 - As a gaming company, we cannot recruit more people to give new features
 demanded by the community
-- In the course of time, it grows so big that we cannot understand it anymore
+- It grows over time, eventually crossing the limits of understanding
 
 ## The task
 

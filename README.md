@@ -15,3 +15,7 @@ It's good to have a couple of problems to cook :)
 
 1. [The Pong Game](pong-game.md)
 1. [Gather and Present health-data](gather-present-fit.md)
+
+## Modules
+
+[Setup VScode with preview](vscode-with-preview.md) for illustrating

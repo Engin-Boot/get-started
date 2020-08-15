@@ -1,6 +1,6 @@
 # Gather and Present Health-data
 
-Data about a person's health and fitness comes from various sources:
+Data about a person's health and fitness comes from different sources:
 
 - Wearables like watches
 - Clinical / lab reports
@@ -15,7 +15,7 @@ They have different formats:
 - Videos
 - Text / prescriptions
 
-They are consumed using different media:
+Users like to consume this data using different media:
 
 - PDF reports (sent over e-mail)
 - HTML reports (accessed via web)
@@ -47,10 +47,10 @@ void main() {
 ```
 
 This has obvious drawbacks of complexity and inflexibility.
-The whole code has to be copied for another customer,
-who may have a different data-source.
+A developer would need to copy the entire code, when a new customer
+has a new data-source.
 
 ## The task
 
 Cut the implementation into parts.
-State the responsibility of each part clearly.
+State the responsibility of each part.

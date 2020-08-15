@@ -22,13 +22,13 @@ void main() {
 }
 ```
 
-However, this has obvious drawbacks:
+This has obvious drawbacks:
 
 - As a gaming company, we cannot recruit more people to give new features
 demanded by the community
-- It grows over time, eventually crossing the limits of understanding
+- It grows over time, gradually crossing the limits of understanding
 
 ## The task
 
 Cut the implementation into parts.
-State the responsibility of each part clearly.
+State the responsibility of each part.

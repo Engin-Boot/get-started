@@ -9,6 +9,10 @@ Let's get started some setup. This will help in tackling the tasks that follow.
 1. [Install and explore Git](git-resources.md)
 1. [Start on an assignment](startup-assignment.md)
 
+## Introductory material
+
+[The Welcome! Presentation](material/get-started-2020-distr.pdf)
+
 ## The muse
 
 It's good to have a couple of problems to decompose :)

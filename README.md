@@ -12,6 +12,7 @@ Let's get started some setup. This will help in tackling the tasks that follow.
 ## Introductory material
 
 [The Welcome! Presentation](material/get-started-2020-distr.pdf)
+[Object-Orientation](material/OO-distr.pdf)
 
 ## The muse
 

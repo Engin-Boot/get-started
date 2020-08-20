@@ -9,17 +9,25 @@ Let's get started some setup. This will help in tackling the tasks that follow.
 1. [Install and explore Git](git-resources.md)
 1. [Start on an assignment](startup-assignment.md)
 
-## Introductory material
+## Introductory Material
 
 [The Welcome! Presentation](material/get-started-2020-distr.pdf)
 [Object-Orientation](material/OO-distr.pdf)
+
+## Work to Precision
+
+To write correct software, we need to specify the problem with precision.
+
+[Try a visit-counter with different stakeholders](https://classroom.github.com/a/IBo-ej_p).
 
 ## The muse
 
 It's good to have a couple of problems to decompose :)
 
-1. [The Pong Game](pong-game.md)
-1. [Gather and Present health-data](gather-present-fit.md)
+1. [The Pong Game](pong-game.md) and its
+[staged exercise](https://classroom.github.com/a/P509YaXc)
+1. [Gather and Present health-data](gather-present-fit.md) and its 
+[staged exercise](https://classroom.github.com/a/JtsFO5Lg)
 
 ## Modeling Modules
 

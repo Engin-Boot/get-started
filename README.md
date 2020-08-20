@@ -27,7 +27,7 @@ It's good to have a couple of problems to decompose :)
 
 1. [The Pong Game](pong-game.md) and its
 [staged exercise](https://classroom.github.com/a/P509YaXc)
-1. [Gather and Present health-data](gather-present-fit.md) and its 
+1. [Gather and Present health-data](gather-present-fit.md) and its
 [staged exercise](https://classroom.github.com/a/JtsFO5Lg)
 
 ## Modeling Modules

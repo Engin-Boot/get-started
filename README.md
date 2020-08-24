@@ -21,13 +21,20 @@ To write correct software, we need to specify the problem with precision.
 
 [Try a visit-counter with different stakeholders](https://classroom.github.com/a/IBo-ej_p).
 
+## Explore by Streams
+
+- S1: [Embedded/Windows development using C++](S1-assignments.md)
+- S2.1: [Desktop development using Microsoft technologies](S21-assignments.md)
+- S2.2: [Web development using Microsoft technologies](S22-assignments.md)
+- S3: [Development using Java technologies and JavaScript](S3-assignments.md)
+
 ## The muse
 
 It's good to have a couple of problems to decompose :)
 
 1. [The Pong Game](pong-game.md) and its
 [staged exercise](https://classroom.github.com/a/P509YaXc)
-1. [Gather and Present health-data](gather-present-fit.md) and its 
+1. [Gather and Present health-data](gather-present-fit.md) and its
 [staged exercise](https://classroom.github.com/a/JtsFO5Lg)
 
 ## Modeling Modules

@@ -2,6 +2,6 @@
 
 This stream explores Desktop development using Microsoft technologies.
 
-## Assigments
+## Assignments
 
 [Modularity-C++](https://classroom.github.com/a/YjkN0Deq)

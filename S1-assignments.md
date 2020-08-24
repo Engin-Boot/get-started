@@ -2,6 +2,6 @@
 
 This stream explores Embedded/Windows development using C++.
 
-## Assigments
+## Assignments
 
 [Modularity-C++](https://classroom.github.com/a/YjkN0Deq)

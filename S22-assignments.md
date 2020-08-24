@@ -2,6 +2,6 @@
 
 This stream explores Web development using Microsoft technologies
 
-## Assigments
+## Assignments
 
 [Modularity-C#](https://classroom.github.com/a/cli4drRf)

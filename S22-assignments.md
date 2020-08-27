@@ -5,3 +5,5 @@ This stream explores Web development using Microsoft technologies
 ## Assignments
 
 [Modularity-C#](https://classroom.github.com/a/cli4drRf)
+
+[Reduce Complexity-C#](https://classroom.github.com/a/vvEyX_15)

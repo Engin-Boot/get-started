@@ -8,6 +8,8 @@ This stream explores Web development using Microsoft technologies
 
 [Reduce Complexity-C#](https://classroom.github.com/a/vvEyX_15)
 
+[Statistics-C#](https://classroom.github.com/a/9whQD2Fp)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

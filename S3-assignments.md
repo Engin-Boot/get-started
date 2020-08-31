@@ -8,6 +8,8 @@ This stream explores development using Java technologies and JavaScript.
 
 [Reduce Complexity-JavaScript](https://classroom.github.com/a/Ft3dXs_E)
 
+[Modularity-Java](https://classroom.github.com/a/StH_x0Tt)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

@@ -8,6 +8,8 @@ This stream explores Embedded/Windows development using C++.
 
 [Reduce Complexity-C++](https://classroom.github.com/a/gk7bSvpq)
 
+[Statistics-C++](https://classroom.github.com/a/mGwsq3Ul)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

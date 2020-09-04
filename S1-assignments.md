@@ -10,6 +10,8 @@ This stream explores Embedded/Windows development using C++.
 
 [Statistics-C++](https://classroom.github.com/a/mGwsq3Ul)
 
+[Anagram Selector-C++](https://classroom.github.com/a/RPodFoPc)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

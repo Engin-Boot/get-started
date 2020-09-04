@@ -10,6 +10,8 @@ This stream explores Desktop development using Microsoft technologies.
 
 [Statistics-C++](https://classroom.github.com/a/mGwsq3Ul)
 
+[Modularity-C#](https://classroom.github.com/a/cli4drRf)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

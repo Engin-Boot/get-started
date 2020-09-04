@@ -10,6 +10,8 @@ This stream explores development using Java technologies and JavaScript.
 
 [Modularity-Java](https://classroom.github.com/a/StH_x0Tt)
 
+[Vitals check-Java](https://classroom.github.com/a/B17I0kQs)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

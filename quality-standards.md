@@ -28,3 +28,10 @@ the above list of KPI.
 [C++ starter workflow](https://github.com/Engin-Boot/get-started/tree/master/workflow-files/cpp)
 
 [C# starter workflow](https://github.com/Engin-Boot/get-started/tree/master/workflow-files/cs)
+
+### Tips
+
+- These are example workflows. They would need modifications to use.
+- Start setting up your workflow like unit tests:
+Write the smallest piece of code to get the workflow functional.
+Then build on top of it.

@@ -1,0 +1,24 @@
+name: Resharper Code Analysis
+ 
+on: 
+    push:
+        branches: [master]
+ 
+jobs:
+  resharper:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Install resharper
+        run: dotnet tool install -g JetBrains.ReSharper.GlobalTools
+        
+      - name: Run resharper inspection
+        run: jb inspectcode OddOrEven.sln /output=insreport.xml
+       
+      - name: Run resharper duplicate code check
+        run: jb dupfinder OddOrEven.sln -o=dupreport.xml
+       
+      - name: Check Reports
+        run: powershell ./resharper.ps1

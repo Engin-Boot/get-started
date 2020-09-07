@@ -12,6 +12,8 @@ This stream explores development using Java technologies and JavaScript.
 
 [Vitals check-Java](https://classroom.github.com/a/B17I0kQs)
 
+[Statistics-Java](https://classroom.github.com/a/lpIqcdWI)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

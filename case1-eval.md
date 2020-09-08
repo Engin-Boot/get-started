@@ -19,10 +19,11 @@ developer quality @desk
 
 ## Teamwork: 10 points
 
-Demonstrate how you have worked as a team and as individuals:
-Parts where you worked together,
+How have you worked as a team and as individuals?
+Illustrate parts where you worked together and
 individual contributions,
-backed by GitHub commits
+backed by GitHub commits.
+Hint: [codescene](https://codescene.io/) can help.
 
 ## Extensible: 5 points
 

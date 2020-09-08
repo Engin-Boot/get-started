@@ -12,6 +12,11 @@ This stream explores Web development using Microsoft technologies
 
 [Anagram Selector-C#](https://classroom.github.com/a/9TJDIBdy)
 
+## Case Study and Teams
+
+[Download details](case-teams/S22-case-groups.pdf)
+- Names, Group-name, mentor-email and group-assignment link
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

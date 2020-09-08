@@ -17,6 +17,13 @@ In particular, how fast can we notice mistakes and failures?
 Includes automated unit and integration tests,
 developer quality @desk
 
+## Teamwork: 10 points
+
+Demonstrate how you have worked as a team and as individuals:
+Parts where you worked together,
+individual contributions,
+backed by GitHub commits
+
 ## Extensible: 5 points
 
 Includes decoupling, code change required for adapting to changes

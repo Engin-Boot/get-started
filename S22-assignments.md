@@ -15,7 +15,9 @@ This stream explores Web development using Microsoft technologies
 ## Case Study and Teams
 
 [Download details](case-teams/S22-case-groups.pdf)
-- Names, Group-name, mentor-email and group-assignment link
+of Names, Group-name, mentor-email and group-assignment link
+
+*Note: Create GitHub team in the classroom using the Group-name*
 
 ## References
 

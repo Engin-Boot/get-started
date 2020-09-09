@@ -31,6 +31,8 @@ the above list of KPI.
 
 [C# starter workflow](https://github.com/Engin-Boot/get-started/tree/master/workflow-files/cs)
 
+[Java starter workflow](https://github.com/Engin-Boot/get-started/tree/master/workflow-files/java)
+
 ### Tips
 
 - These are example workflows. They would need modifications to use.

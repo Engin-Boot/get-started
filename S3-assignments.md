@@ -14,6 +14,13 @@ This stream explores development using Java technologies and JavaScript.
 
 [Statistics-Java](https://classroom.github.com/a/lpIqcdWI)
 
+## Case Study and Teams
+
+[Download details](case-teams/S3-case-groups.pdf)
+of Names, Group-name, mentor-email and group-assignment link
+
+*Note: Create GitHub team in the classroom using the Group-name*
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

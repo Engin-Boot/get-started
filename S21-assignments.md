@@ -16,6 +16,13 @@ This stream explores Desktop development using Microsoft technologies.
 
 [Statistics-C#](https://classroom.github.com/a/9whQD2Fp)
 
+## Case Study and Teams
+
+[Download details](case-teams/S21-case-groups.pdf)
+of Names, Group-name, and group-assignment link
+
+*Note: Create GitHub team in the classroom using the Group-name*
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)

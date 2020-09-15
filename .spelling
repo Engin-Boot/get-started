@@ -11,3 +11,6 @@ S3
 cyclomatic
 cppcheck
 codescene
+pom.xml
+junit
+jacoco

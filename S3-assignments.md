@@ -21,6 +21,12 @@ of Names, Group-name, mentor-email and group-assignment link
 
 *Note: Create GitHub team in the classroom using the Group-name*
 
+## Further Exploration
+
+[CodeScene](https://codescene.io/)
+
+[Sonar](https://sonarcloud.io/)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)
@@ -28,3 +34,7 @@ of Names, Group-name, mentor-email and group-assignment link
 [Java: A Beginner's Guide](https://learning.oreilly.com/library/view/java-a-beginners/9781260440225/)
 
 [Effective Java](https://learning.oreilly.com/library/view/effective-java/9780134686097/)
+
+[Basic Automation with Python](https://automatetheboringstuff.com/)
+
+[Effective Python](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/)

@@ -19,6 +19,12 @@ of Names, Group-name, mentor-email and group-assignment link
 
 *Note: Create GitHub team in the classroom using the Group-name*
 
+## Further Exploration
+
+[CodeScene](https://codescene.io/)
+
+[Sonar](https://sonarcloud.io/)
+
 ## References
 
 [The Art of Readable Code](https://learning.oreilly.com/library/view/the-art-of/9781449318482/)
@@ -27,3 +33,7 @@ of Names, Group-name, mentor-email and group-assignment link
 
 [Effective Modern C++](https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/):
 Focus on Smart Pointers, Lambda Expressions, The Concurrency API
+
+[Basic Automation with Python](https://automatetheboringstuff.com/)
+
+[Effective Python](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/)

@@ -15,11 +15,11 @@ This stream explores Embedded/Windows development using C++.
 ## Case Study and Teams
 
 [Download details](case-teams/S1-case-groups.pdf)
-of Names, Group-name, mentor-email and group-assignment link
+of Names, Group-name, mentor-email, and group-assignment link.
 
-*Note: Create GitHub team in the classroom using the Group-name*
+Create a GitHub team in the classroom *using the Group-name*
 
-## Further Exploration
+## Further Exploration on your Repository
 
 [CodeScene](https://codescene.io/)
 
@@ -33,6 +33,13 @@ of Names, Group-name, mentor-email and group-assignment link
 
 [Effective Modern C++](https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/):
 Focus on Smart Pointers, Lambda Expressions, The Concurrency API
+
+OS & Networking tools:
+
+- [Performance Monitor](https://www.windowscentral.com/how-use-performance-monitor-windows-10)
+- [Network Monitor](https://www.wireshark.org/download.html)
+- [Localhost Monitor](https://www.netresec.com/index.ashx?page=RawCap)
+- [Mosquitto MQTT](https://mosquitto.org/)
 
 [Basic Automation with Python](https://automatetheboringstuff.com/)
 

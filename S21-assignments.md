@@ -21,7 +21,13 @@ This stream explores Desktop development using Microsoft technologies.
 [Download details](case-teams/S21-case-groups.pdf)
 of Names, Group-name, and group-assignment link
 
-*Note: Create GitHub team in the classroom using the Group-name*
+Create a GitHub team in the classroom *using the Group-name*
+
+## Further Exploration on your Repository
+
+[CodeScene](https://codescene.io/)
+
+[Sonar](https://sonarcloud.io/)
 
 ## References
 

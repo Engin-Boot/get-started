@@ -2,7 +2,8 @@
 
 The pom.xml integrates junit, jacoco and treats warnings as errors
 
-In addition, [Cerberus](https://github.com/philips-software/cerberus) is a gating mechanism.
+In addition, [Cerberus](https://github.com/philips-software/cerberus)
+is a gating mechanism.
 Its use is [illustrated here](https://github.com/aravind666/cerberus-workflow)
 
 Example commands using Cerberus:

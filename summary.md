@@ -1,6 +1,6 @@
 # The Exploration
 
-This is about making software engineering practices into habit.
+Let's make a habit of Engineering.
 
 Gratitude to all those who have contributed
 to the approach, exercises and evaluations:
@@ -29,6 +29,8 @@ Decomposition is about making teamwork efficient.
 Build habits and skills for speed and reliability.
 
 These examples start with a failing build, which needs work.
+GitHub Actions will run the evaluation workflows.
+
 Peer reviews need to focus on naming,
 ease of understanding, and duplication of information.
 
@@ -73,3 +75,11 @@ to meet the acceptance criteria given in these case studies.
 Leverage the past, Develop for the future.
 
 Develop on top of existing software. Always have the next developer in mind.
+
+[Extract Metrics from a Pi board](https://github.com/Engin-Boot/ui-board-monitor)
+
+[Telemetry](https://github.com/Engin-Boot/health-telemetry)
+
+[Image Transfer](https://github.com/Engin-Boot/image-transfer)
+
+[Device Sync](https://github.com/Engin-Boot/sync-devices)

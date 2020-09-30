@@ -14,10 +14,12 @@ This stream explores Embedded/Windows development using C++.
 
 ## Case Study and Teams
 
-[Download details](case-teams/S1-case-groups.pdf)
+[Download details](case-teams/case2-S1-groups.pdf)
 of Names, Group-name, mentor-email, and group-assignment link.
 
-Create a GitHub team in the classroom *using the Group-name*
+Find and join the team *with your Group-name*
+
+[Evaluation criteria](case2-eval.md)
 
 ## Further Exploration on your Repository
 

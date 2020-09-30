@@ -26,8 +26,3 @@ jobs:
       run: |
         npm install -g markdown-spellcheck
         mdspell --ignore-numbers --ignore-acronyms --report --en-us ./*.md
-        
-    - name: Check goodness of writing
-      run: |
-        npm install -g write-good
-        npx write-good *.md

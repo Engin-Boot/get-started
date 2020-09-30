@@ -78,7 +78,7 @@ Develop on top of existing software. Always have the next developer in mind.
 
 [Extract Metrics from a Pi board](https://github.com/Engin-Boot/ui-board-monitor)
 
-[Telemetry](https://github.com/Engin-Boot/health-telemetry)
+[Monitor Health](https://github.com/Engin-Boot/health-telemetry)
 
 [Image Transfer](https://github.com/Engin-Boot/image-transfer)
 

@@ -86,4 +86,4 @@ Develop on top of existing software. Always have the next developer in mind.
 [Sync Devices](https://github.com/Engin-Boot/sync-devices)
 
 ---
-[Would you like to contribute?](contributing.md)
+Would you like to contribute? [Click here](contributing.md)

@@ -31,6 +31,7 @@ Build habits and skills for speed and reliability.
 These examples start with a failing build, which needs work.
 GitHub Actions will run the evaluation workflows.
 
+Yet, it's more than about passing the tests.
 Peer reviews need to focus on naming,
 ease of understanding, and duplication of information.
 
@@ -70,7 +71,7 @@ to meet the acceptance criteria given in these case studies.
 
 [Environment Monitoring](https://github.com/Engin-Boot/environment-monitoring)
 
-## Case studies to Leverage and Develop
+## Leverage-and-Develop Case studies
 
 Leverage the past, Develop for the future.
 

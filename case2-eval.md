@@ -22,7 +22,7 @@
 automated setup,
 - Error-messages understandable to service/operations.
 - Utilize the full capability of the platform.
-E.g., build 64-bit if the runtime environment supports it.
+Example: build 64 bit if the runtime environment supports it.
 
 ## Teamwork: 10 points
 
@@ -34,10 +34,10 @@ individual contributions, backed by GitHub commits
 
 - Ability to relate to real-world users and situations
 - Sequences of actions documented in scripts / automation
-- Only non-automatable steps are documented in .md files
-- Rationale documented in .md files
+- Document manual steps in markdown files
+- Rationale documented in markdown files
 
 ## Self-evaluation
 
-- How did the second team receive your knowledge and deliverables?
+- How did the second team receive your knowledge and deliverable?
 - What did they find easy? What parts were difficult?

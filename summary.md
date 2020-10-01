@@ -84,3 +84,6 @@ Develop on top of existing software. Always have the next developer in mind.
 [Image Transfer](https://github.com/Engin-Boot/image-transfer)
 
 [Sync Devices](https://github.com/Engin-Boot/sync-devices)
+
+---
+[Would you like to contribute?](contributing.md)

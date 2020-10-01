@@ -37,3 +37,7 @@ Create a GitHub team in the classroom *using the Group-name*
 
 [Effective Modern C++](https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/):
 Focus on Smart Pointers, Lambda Expressions, The Concurrency API
+
+[Basic Automation with Python](https://automatetheboringstuff.com/)
+
+[Effective Python](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/)

@@ -63,7 +63,8 @@ ease of understanding, and duplication of information.
 ## DIY Case studies
 
 Apply by setting up your own methods
-to meet the acceptance criteria given in these case studies.
+to meet the [acceptance criteria](case1-eval.md)
+given in these case studies.
 
 [Review of Reviews](https://github.com/Engin-Boot/review-of-reviews)
 
@@ -76,6 +77,7 @@ to meet the acceptance criteria given in these case studies.
 Leverage the past, Develop for the future.
 
 Develop on top of existing software. Always have the next developer in mind.
+Here are the [indicators of a maintainable product](case2-eval.md)
 
 [Extract Metrics from a Pi board](https://github.com/Engin-Boot/ui-board-monitor)
 

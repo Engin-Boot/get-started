@@ -85,5 +85,9 @@ Develop on top of existing software. Always have the next developer in mind.
 
 [Sync Devices](https://github.com/Engin-Boot/sync-devices)
 
+[Alert to Care](https://github.com/Engin-Boot/alert-to-care)
+
+[Assist Purchase](https://github.com/Engin-Boot/assist-purchase)
+
 ---
 Would you like to contribute? [Click here](contributing.md)

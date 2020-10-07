@@ -35,6 +35,8 @@ Find and join the team *with your Group-name*
 
 [Effective C#: 50 Specific Ways to Improve Your C#](https://learning.oreilly.com/library/view/effective-c-50/9780134579290/)
 
+[C# with databases](cs-db-refs.md)
+
 [Basic Automation with Python](https://automatetheboringstuff.com/)
 
 [Effective Python](https://learning.oreilly.com/library/view/effective-python-90/9780134854717/)

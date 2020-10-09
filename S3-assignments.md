@@ -21,6 +21,8 @@ of Names, Group-name, mentor-email and group-assignment link
 
 Find and join the team *with your Group-name*
 
+[Evaluation criteria](case2-eval.md)
+
 ## Further Exploration on your Repository
 
 [CodeScene](https://codescene.io/)

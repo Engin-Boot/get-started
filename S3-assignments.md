@@ -16,10 +16,10 @@ This stream explores development using Java technologies and JavaScript.
 
 ## Case Study and Teams
 
-[Download details](case-teams/S3-case-groups.pdf)
+[Download details](case-teams/case2-S3-groups.pdf)
 of Names, Group-name, mentor-email and group-assignment link
 
-Create a GitHub team in the classroom *using the Group-name*
+Find and join the team *with your Group-name*
 
 ## Further Exploration on your Repository
 

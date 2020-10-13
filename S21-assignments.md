@@ -18,10 +18,12 @@ This stream explores Desktop development using Microsoft technologies.
 
 ## Case Study and Teams
 
-[Download details](case-teams/S21-case-groups.pdf)
+[Download details](case-teams/case2-S21-groups.pdf)
 of Names, Group-name, and group-assignment link
 
-Create a GitHub team in the classroom *using the Group-name*
+Find and join the team *with your Group-name*
+
+[Evaluation criteria](case2-eval.md)
 
 ## Further Exploration on your Repository
 
